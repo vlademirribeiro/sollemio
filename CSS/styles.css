@@ -76,10 +76,8 @@ h6 {
   
 }
 .rodape{
-  background-image: url('../IMG/fundo.jpg');
-  color: #ffffff;
+  padding: 0,0, 0,0;
 }
-
 .main-content {
   width: 100%;
   max-width: auto;
